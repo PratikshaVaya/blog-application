@@ -97,6 +97,7 @@ This setup closely reflects how a frontend would interact with a real backend AP
 
 ---
 
+
 ## Routing
 
 | Route | Description |
@@ -120,5 +121,6 @@ This setup closely reflects how a frontend would interact with a real backend AP
 npm install
 npm run dev
 
-<img width="1909" height="851" alt="image" src="https://github.com/user-attachments/assets/88207418-b012-4f08-87eb-ca80a952d24b" />
+
+
 
