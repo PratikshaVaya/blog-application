@@ -9,6 +9,7 @@ The application supports full CRUD operations for blogs and is structured to mir
 ---
 
 ## Features
+
 - View a list of blog posts
 - View details of a single blog post
 - Create a new blog post
@@ -16,6 +17,7 @@ The application supports full CRUD operations for blogs and is structured to mir
 - Delete a blog post with confirmation
 - Loading skeletons and empty states
 - Persistent data using `localStorage`
+
 ---
 
 ## Tech Stack
@@ -116,7 +118,22 @@ This setup closely reflects how a frontend would interact with a real backend AP
 - **Minimal UI abstraction**: avoids unnecessary complexity
 - **Limited validation**: kept simple due to time-boxed nature of the assignment
 
+---
+
+## Possible Improvements
+
+With more time or a real backend, the following enhancements could be added:
+
+- Authentication and user-specific blogs
+- Pagination or infinite scrolling
+- Markdown support for blog content
+- Autosave drafts
+- Backend API integration
+
+---
+
 ## Running the Project Locally
+
 ```bash
 npm install
 npm run dev
